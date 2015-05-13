@@ -1,0 +1,2 @@
+# training-zookeeper
+练习使用Java调用ZooKeeper，zookeeper主要用来分布式锁的应用配置，dubbo中就使用了zookeeper保存注册中心各个应用的配置情况。
